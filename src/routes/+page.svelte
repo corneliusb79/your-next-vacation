@@ -38,7 +38,15 @@
 				warmWeather: 2,
 				rain: 5
 			}
-		}
+		},
+		{
+			name: 'Mumbai',
+			attributes: {
+				beaches: 1,
+				warmWeather: 5,
+				rain: 2
+			}
+		},
 	];
 
 	let placesWithScore: Array<{ place: Place; score: number }> = [];
