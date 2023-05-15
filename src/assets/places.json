@@ -1,0 +1,32 @@
+[
+    {
+        "name": "California",
+        "attributes": {
+            "beaches": 3,
+            "warmWeather": 4
+        }
+    },
+    {
+        "name": "Alaska",
+        "attributes": {
+            "beaches": 3,
+            "warmWeather": 0
+        }
+    },
+    {
+        "name": "London",
+        "attributes": {
+            "beaches": 1,
+            "warmWeather": 2,
+            "rain": 5
+        }
+    },
+    {
+        "name": "Mumbai",
+        "attributes": {
+            "beaches": 1,
+            "warmWeather": 5,
+            "rain": 2
+        }
+    }
+]

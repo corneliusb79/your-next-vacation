@@ -1,5 +1,6 @@
 <script type="ts">
 	import { Button, Card, Heading, P } from 'flowbite-svelte';
+	import places from '../assets/places.json';
 	import Questions from '../components/Questions.svelte';
 
 	let answers: Record<string, number> = {
@@ -16,47 +17,14 @@
 		image: string;
 	}
 
-	const places: Array<Place> = [
-		{
-			name: 'California',
-			attributes: {
-				beaches: 3,
-				warmWeather: 4
-			}
-		},
-		{
-			name: 'Alaska',
-			attributes: {
-				beaches: 3,
-				warmWeather: 0
-			}
-		},
-		{
-			name: 'London',
-			attributes: {
-				beaches: 1,
-				warmWeather: 2,
-				rain: 5
-			}
-		},
-		{
-			name: 'Mumbai',
-			attributes: {
-				beaches: 1,
-				warmWeather: 5,
-				rain: 2
-			}
-		},
-	];
-
 	let placesWithScore: Array<{ place: Place; score: number }> = [];
 
 	$: {
 		let pws = [];
-		for (const place of places) {
+		for (const place of (places as unknown as Array<Place>)) {
 			let score = 0;
-			if (place.name === "London" && answers.rain === 5) {
-				score += 10000000000
+			if (place.name === 'London' && answers.rain === 5) {
+				score += 10000000000;
 			}
 			for (const answerKey of Object.keys(answers)) {
 				if (answerKey in place.attributes) {
@@ -68,9 +36,9 @@
 		placesWithScore = pws.sort((a, b) => (a.score === b.score ? 0 : a.score < b.score ? 1 : -1));
 	}
 
-	let recommendedPlace: Place | null = null
+	let recommendedPlace: Place | null = null;
 
-	function submit(){
+	function submit() {
 		recommendedPlace = placesWithScore[0].place;
 	}
 </script>
@@ -103,11 +71,11 @@
 			score={answers.rain}
 		/>
 		<Questions
-		question="How much do you enjoy going to the casino?"
-		on:change={(event) => {
-			answers = { ...answers, casino: event.detail };
-		}}
-		score={answers.casino}
+			question="How much do you enjoy going to the casino?"
+			on:change={(event) => {
+				answers = { ...answers, casino: event.detail };
+			}}
+			score={answers.casino}
 		/>
 		<Button color="purple" on:click={submit}>Submit</Button>
 	</div>
@@ -122,4 +90,3 @@
 		</Card>
 	{/if}
 </div>
-
