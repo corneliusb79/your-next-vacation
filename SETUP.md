@@ -4,7 +4,7 @@
 
 `[ADMIN]`
 
-Run `Get-ExecutionPolicy`. If it returns Restricted, then run `Set-ExecutionPolicy` AllSigned or `Set-ExecutionPolicy Bypass -Scope` Process.
+Run `Get-ExecutionPolicy`. If it returns Restricted, then run `Set-ExecutionPolicy AllSigned` or `Set-ExecutionPolicy Bypass -Scope` Process.
 
 Now run the following command:
 
