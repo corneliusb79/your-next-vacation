@@ -9,7 +9,9 @@
 		rain: 1,
 		casino: 1, 
 		nature: 1,
-		museums: 1
+		museums: 1, 
+		food: 1,
+		budget: 1
 	};
 
 	interface Place {
@@ -92,6 +94,20 @@
 				answers = { ...answers, museums: event.detail };
 			}}
 			score={answers.museums}
+		/>
+		<Questions
+			question="Are you foodie?"
+			on:change={(event) => {
+				answers = { ...answers, food: event.detail };
+			}}
+			score={answers.food}
+		/>
+		<Questions
+			question="How much are you willing to spend on your vacation?"
+			on:change={(event) => {
+				answers = { ...answers, budget: event.detail };
+			}}
+			score={answers.budget}
 		/>
 		<Button color="purple" on:click={submit}>Submit</Button>
 	</div>
