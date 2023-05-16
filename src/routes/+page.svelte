@@ -109,6 +109,13 @@
 			}}
 			score={answers.budget}
 		/>
+		<Questions
+			question="Do you like architecture?"
+			on:change={(event) => {
+				answers = { ...answers, architecture: event.detail };
+			}}
+			score={answers.architecture}
+		/>
 		<Button color="purple" on:click={submit}>Submit</Button>
 	</div>
 
