@@ -4,14 +4,16 @@
         "attributes": {
             "beaches": 3,
             "warmWeather": 4
-        }
+        },
+        "funFact": ""
     },
     {
         "name": "Alaska",
         "attributes": {
             "beaches": 3,
             "warmWeather": 0
-        }
+        },
+        "funFact": ""
     },
     {
         "name": "London",
@@ -19,7 +21,8 @@
             "beaches": 1,
             "warmWeather": 2,
             "rain": 5
-        }
+        },
+        "funFact": ""
     },
     {
         "name": "Mumbai",
@@ -27,6 +30,7 @@
             "beaches": 1,
             "warmWeather": 5,
             "rain": 2
-        }
+        },
+        "funFact": ""
     }
 ]
