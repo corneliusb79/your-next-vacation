@@ -4,8 +4,7 @@
 	import Questions from '../components/Questions.svelte';
 
 	let answers: Record<string, number> = {
-		beaches: 1,
-		warmWeather: 1,
+				warmWeather: 1,
 		rain: 1,
 		casino: 1, 
 		nature: 1,
@@ -61,14 +60,7 @@
 	</Heading>
 
 	<div class="p-4 max-w-[750px] gap-4 flex flex-col">
-		<Questions
-			question="How much do you like beaches?"
-			on:change={(event) => {
-				answers = { ...answers, beaches: event.detail };
-			}}
-			score={answers.beaches}
-		/>
-		<Questions
+				<Questions
 			question="1 How much do you like warm weather?"
 			on:change={(event) => {
 				answers = { ...answers, warmWeather: event.detail };
