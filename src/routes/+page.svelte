@@ -138,7 +138,7 @@
 			score={answers.inclusive}
 		/>
 		<Questions
-			question="12 Do you mind walking a lot?"
+			question="12 Does your destination have to be walkable?"
 			on:change={(event) => {
 				answers = { ...answers, walking: event.detail };
 			}}
