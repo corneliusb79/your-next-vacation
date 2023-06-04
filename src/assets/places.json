@@ -79,4 +79,64 @@
         },
         "funFact": "Monaco, the tiny country where even the squirrels drive miniature Ferraris and engage in high-speed chases. The streets are paved with gold (or at least it looks like it), as the residents casually toss gold dust on the ground for good luck. It's a place where you can see the world's fanciest pigeons wearing tuxedos and attending glamorous cocktail parties. The yachts here are so massive that they have their own zip codes, and the fish have taken up synchronized swimming as their favorite pastime."
     },
+    {
+        "name": "Berlin",
+        "attributes": {
+            "rain": 4,
+            "casino": 2,
+            "nature": 3,
+            "museums": 5,
+            "food": 5,
+            "budget": 3,
+            "architecture": 4,
+            "party": 5,
+            "safety": 4,
+            "inclusive": 1,
+            "walking": 4,
+            "beach": 1,
+            "adventurous": 4,
+            "luxuriously": 3
+        },
+        "funFact": "Berlin, the city where street art is so abundant that even the pigeons have their own graffiti tags. The locals here are like human chameleons, blending seamlessly into the vibrant kaleidoscope of fashion and hairstyles. You'll find more bicycles than cars on the roads, as if the city is preparing for a secret Tour de Berlin. The nightlife is so wild that even the nocturnal creatures envy the energy of Berliners partying until dawn. And if you're lucky, you might stumble upon a secret club hidden in an underground tunnel, guarded by a hipster unicorn."
+    },
+    {
+        "name": "Miami",
+        "attributes": {
+            "rain": 3,
+            "casino": 3,
+            "nature": 3,
+            "museums": 1,
+            "food": 3,
+            "budget": 5,
+            "architecture": 3,
+            "party": 5,
+            "safety": 4,
+            "inclusive": 3,
+            "walking": 3,
+            "beach": 5,
+            "adventurous": 3,
+            "luxuriously": 5
+        },
+        "funFact": "Miami, the city where flip-flops are considered formal footwear and sunscreen is the unofficial national fragrance. It's a place where palm trees sway so enthusiastically, they could easily be mistaken for backup dancers in a lively Latin music video. The humidity here is like a constant reminder that you're wearing a face mask made of invisible water droplets. You'll witness more colorful speedboats than rush hour traffic, as locals navigate the streets with the finesse of Formula 1 racers."
+    },
+    {
+        "name": "Perth",
+        "attributes": {
+            "rain": 2,
+            "casino": 2,
+            "nature": 4,
+            "museums": 2,
+            "food": 3,
+            "budget": 4,
+            "architecture": 4,
+            "party": 3,
+            "safety": 4,
+            "inclusive": 1,
+            "walking": 2,
+            "beach": 4,
+            "adventurous": 2,
+            "luxuriously": 3
+        },
+        "funFact": "Perth, the land down under where kangaroos have perfected their beach volleyball skills and enjoy sipping on eucalyptus smoothies between matches. The locals here have mastered the art of balancing Vegemite on their noses while simultaneously playing the didgeridoo."
+    }
 ]
