@@ -2,35 +2,81 @@
     {
         "name": "California",
         "attributes": {
-            "beaches": 3,
-            "warmWeather": 4
+            "rain": 2,
+            "casino": 4,
+            "nature": 4,
+            "museums": 2,
+            "food": 4,
+            "budget": 4,
+            "architecture": 2,
+            "party": 4,
+            "safety": 3,
+            "inclusive": 1,
+            "walking": 2,
+            "beach": 5,
+            "adventurous": 4,
+            "luxuriously": 3
         },
-        "funFact": ""
+        "funFact": "CALIFORNIAAAAAAAA, CAAALEIFORNIA GIIIRRLS, do we even have to say more? Sun, bikis and fun. California, the land of perpetual sunshine and more yoga mats than people. It's a place where avocado toast is considered a legitimate form of currency, and people wear flip-flops to black-tie events. You'll find more aspiring actors here than grains of sand on the beach, all waiting for their big break while sipping on kale smoothies. The traffic is a constant reminder that patience is indeed a virtue, as you sit on the highway contemplating the meaning of life!"
     },
     {
-        "name": "Alaska",
+        "name": "Hawaii",
         "attributes": {
-            "beaches": 3,
-            "warmWeather": 0
+            "rain": 5,
+            "casino": 1,
+            "nature": 5,
+            "museums": 3,
+            "food": 4,
+            "budget": 4,
+            "architecture": 2,
+            "party": 2,
+            "safety": 4,
+            "inclusive": 2,
+            "walking": 3,
+            "beach": 5,
+            "adventurous": 5,
+            "luxuriously": 3
         },
-        "funFact": ""
+        "funFact": "Ah, Hawaii, the tropical paradise where coconuts fall like hailstones, and the palm trees wave at you like over-enthusiastic fans. It's the only place on Earth where even the volcanoes are so relaxed that they decide to throw spontaneous luaus instead of erupting. And let's not forget about the vibrant shirts! Hawaiian shirts are the official uniform of the islands, and they come in every color and pattern imaginable. You might even mistake them for a rainbow explosion or a walking tropical garden. Just make sure you're prepared to embrace your inner fashionista before you step foot on Hawaiian soil. So, pack your flip-flops, bring your appetite for pineapple pizza (a controversial choice, I know), and get ready to experience Hawaii, the place where even the coconuts have a great sense of humor. Aloha!"
     },
     {
-        "name": "London",
+        "name": "Las Vegas",
         "attributes": {
-            "beaches": 1,
-            "warmWeather": 2,
-            "rain": 5
+            "rain": 1,
+            "casino": 5,
+            "nature": 2,
+            "museums": 3,
+            "food": 4,
+            "budget": 4,
+            "architecture": 2,
+            "party": 4,
+            "safety": 3,
+            "inclusive": 1,
+            "walking": 3,
+            "beach": 1,
+            "adventurous": 2,
+            "luxuriously": 4
         },
-        "funFact": ""
+        "funFact": "Las Vegas, the city where you can lose your money, your dignity, and your sense of time all in one spin of a roulette wheel. It's a place where Elvis impersonators roam freely, challenging each other to dance-offs on every corner. The hotels here are so extravagant that you might mistake them for alien spaceships that crash-landed on the Strip. You can find buffets so big and endless that you'll need a map just to navigate your way through the mountains of shrimp and towers of dessert. And don't be surprised if you spot a wedding chapel next to a drive-thru daiquiri stand—because in Vegas, love and frozen cocktails go hand in hand."
     },
     {
-        "name": "Mumbai",
+        "name": "Monaco",
         "attributes": {
-            "beaches": 1,
-            "warmWeather": 5,
-            "rain": 2
+            "rain": 2,
+            "casino": 4,
+            "nature": 3,
+            "museums": 3,
+            "food": 3,
+            "budget": 5,
+            "architecture": 5,
+            "party": 4,
+            "safety": 5,
+            "inclusive": 2,
+            "walking": 4,
+            "beach": 4,
+            "adventurous": 3,
+            "luxuriously": 5
         },
-        "funFact": ""
-    }
+        "funFact": "Monaco, the tiny country where even the squirrels drive miniature Ferraris and engage in high-speed chases. The streets are paved with gold (or at least it looks like it), as the residents casually toss gold dust on the ground for good luck. It's a place where you can see the world's fanciest pigeons wearing tuxedos and attending glamorous cocktail parties. The yachts here are so massive that they have their own zip codes, and the fish have taken up synchronized swimming as their favorite pastime."
+    },
 ]
