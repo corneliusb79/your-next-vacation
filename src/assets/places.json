@@ -1,6 +1,6 @@
 [
     {
-        "name": "California",
+        "name": "California, US",
         "attributes": {
             "rain": 2,
             "casino": 4,
@@ -20,7 +20,7 @@
         "funFact": "CALIFORNIAAAAAAAA, CAAALEIFORNIA GIIIRRLS, do we even have to say more? Sun, bikis and fun. California, the land of perpetual sunshine and more yoga mats than people. It's a place where avocado toast is considered a legitimate form of currency, and people wear flip-flops to black-tie events. You'll find more aspiring actors here than grains of sand on the beach, all waiting for their big break while sipping on kale smoothies. The traffic is a constant reminder that patience is indeed a virtue, as you sit on the highway contemplating the meaning of life!"
     },
     {
-        "name": "Hawaii",
+        "name": "Hawaii, US",
         "attributes": {
             "rain": 5,
             "casino": 1,
@@ -40,7 +40,7 @@
         "funFact": "Ah, Hawaii, the tropical paradise where coconuts fall like hailstones, and the palm trees wave at you like over-enthusiastic fans. It's the only place on Earth where even the volcanoes are so relaxed that they decide to throw spontaneous luaus instead of erupting. And let's not forget about the vibrant shirts! Hawaiian shirts are the official uniform of the islands, and they come in every color and pattern imaginable. You might even mistake them for a rainbow explosion or a walking tropical garden. Just make sure you're prepared to embrace your inner fashionista before you step foot on Hawaiian soil. So, pack your flip-flops, bring your appetite for pineapple pizza (a controversial choice, I know), and get ready to experience Hawaii, the place where even the coconuts have a great sense of humor. Aloha!"
     },
     {
-        "name": "Las Vegas",
+        "name": "Las Vegas, Nevada",
         "attributes": {
             "rain": 1,
             "casino": 5,
@@ -80,7 +80,7 @@
         "funFact": "Monaco, the tiny country where even the squirrels drive miniature Ferraris and engage in high-speed chases. The streets are paved with gold (or at least it looks like it), as the residents casually toss gold dust on the ground for good luck. It's a place where you can see the world's fanciest pigeons wearing tuxedos and attending glamorous cocktail parties. The yachts here are so massive that they have their own zip codes, and the fish have taken up synchronized swimming as their favorite pastime."
     },
     {
-        "name": "Berlin",
+        "name": "Berlin, Germany",
         "attributes": {
             "rain": 4,
             "casino": 2,
@@ -100,7 +100,7 @@
         "funFact": "Berlin, the city where street art is so abundant that even the pigeons have their own graffiti tags. The locals here are like human chameleons, blending seamlessly into the vibrant kaleidoscope of fashion and hairstyles. You'll find more bicycles than cars on the roads, as if the city is preparing for a secret Tour de Berlin. The nightlife is so wild that even the nocturnal creatures envy the energy of Berliners partying until dawn. And if you're lucky, you might stumble upon a secret club hidden in an underground tunnel, guarded by a hipster unicorn."
     },
     {
-        "name": "Miami",
+        "name": "Miami, Florida",
         "attributes": {
             "rain": 3,
             "casino": 3,
@@ -120,7 +120,7 @@
         "funFact": "Miami, the city where flip-flops are considered formal footwear and sunscreen is the unofficial national fragrance. It's a place where palm trees sway so enthusiastically, they could easily be mistaken for backup dancers in a lively Latin music video. The humidity here is like a constant reminder that you're wearing a face mask made of invisible water droplets. You'll witness more colorful speedboats than rush hour traffic, as locals navigate the streets with the finesse of Formula 1 racers."
     },
     {
-        "name": "Perth",
+        "name": "Perth, Australia",
         "attributes": {
             "rain": 2,
             "casino": 2,
@@ -140,23 +140,143 @@
         "funFact": "Perth, the land down under where kangaroos have perfected their beach volleyball skills and enjoy sipping on eucalyptus smoothies between matches. The locals here have mastered the art of balancing Vegemite on their noses while simultaneously playing the didgeridoo."
     },
     {
-        "name": "Paris",
+        "name": "Paris, France",
         "attributes": {
-            "rain": ,
-            "casino": ,
-            "nature": ,
-            "museums": ,
-            "food": ,
-            "budget": ,
-            "architecture": ,
-            "party": ,
-            "safety": ,
-            "inclusive": ,
-            "walking": ,
-            "beach": ,
-            "adventurous": ,
-            "luxuriously": 
+            "rain": 3,
+            "casino": 2,
+            "nature": 2,
+            "museums": 5,
+            "food": 3,
+            "budget": 3,
+            "architecture": 4,
+            "party": 3,
+            "safety": 4,
+            "inclusive": 1,
+            "walking": 3,
+            "beach": 1,
+            "adventurous": 3,
+            "luxuriously": 4
         },
-        "funFact": ""
+        "funFact": "Paris, the city of love, croissants, and berets, where pigeons perform synchronized ballets in front of the Eiffel Tower. The locals here have a knack for carrying baguettes in the most unconventional ways, like using them as fashionable walking sticks or even playing baguette sword fights at outdoor markets. The city streets are a labyrinth of winding alleys, where lost tourists are often mistaken for street performers in desperate need of directions. If you ever need to find a Parisian cafe, just follow the scent of freshly brewed coffee and the sound of philosophical debates over the best way to eat a croissant. And don't be surprised if you catch a glimpse of Mona Lisa taking a break from her art duties to join a mime flash mob—after all, Paris is a city where even the art comes to life."
+    },
+    {
+        "name": "Key West, Florida",
+        "attributes": {
+            "rain": 3,
+            "casino": 2,
+            "nature": 2,
+            "museums": 5,
+            "food": 3,
+            "budget": 3,
+            "architecture": 4,
+            "party": 3,
+            "safety": 4,
+            "inclusive": 1,
+            "walking": 3,
+            "beach": 1,
+            "adventurous": 3,
+            "luxuriously": 4
+        },
+        "funFact": "Key West, the tropical paradise where roosters have embraced their inner divas and taken up flamenco dancing lessons. The sun here shines so relentlessly that even the palm trees have invested in stylish sunglasses and sunscreen. The locals have mastered the art of walking barefoot on the scorching hot sand, pretending it's a fiery tango with the beach. You'll find more flip-flops than actual shoes on the streets, as if the whole town has an aversion to laces. And if you're ever in need of directions, just ask a passing pelican—they always seem to know the quickest route to the nearest margarita bar."
+    },
+    {
+        "name": "Tampa, Florida",
+        "attributes": {
+            "rain": 3,
+            "casino": 2,
+            "nature": 2,
+            "museums": 5,
+            "food": 3,
+            "budget": 3,
+            "architecture": 4,
+            "party": 3,
+            "safety": 4,
+            "inclusive": 1,
+            "walking": 3,
+            "beach": 1,
+            "adventurous": 3,
+            "luxuriously": 4
+        },
+        "funFact": "Tampa, the city where sunscreen is considered a form of currency and seagulls have taken up synchronized ice cream stealing as an Olympic sport. The weather here is as unpredictable as a chameleon on roller skates, going from scorching hot to spontaneous rain showers in a matter of minutes. The locals have mastered the art of dodging alligator crossings on their way to work, as if it's a normal part of their daily commute. You'll find more palm trees than people in this town, swaying to the beat of reggae music and occasionally dropping coconuts as a way of saying, 'Hello, watch your head!' And if you're lucky, you might catch a glimpse of a manatee riding a jet ski like a true Floridian daredevil."
+    },
+    {
+        "name": "Singapore",
+        "attributes": {
+            "rain": 3,
+            "casino": 2,
+            "nature": 2,
+            "museums": 5,
+            "food": 3,
+            "budget": 3,
+            "architecture": 4,
+            "party": 3,
+            "safety": 4,
+            "inclusive": 1,
+            "walking": 3,
+            "beach": 1,
+            "adventurous": 3,
+            "luxuriously": 4
+        },
+        "funFact": "Singapore, the city-state where chewing gum is considered a dangerous weapon, and the fines for littering are more expensive than a designer handbag. The locals here have mastered the art of eating with chopsticks while simultaneously checking their smartphones and hailing a taxi. The weather is as humid as a sauna on a tropical beach, making the air feel like a constant warm hug from a friendly but sweaty aunt. You'll find more shopping malls than you can count, each with its own army of air-conditioned penguins waddling from store to store. And if you ever get lost, just follow the scent of delicious street food and the sound of karaoke enthusiasts belting out tunes from the latest K-pop hits."
+    },
+    {
+        "name": "Swiss Alps",
+        "attributes": {
+            "rain": 3,
+            "casino": 2,
+            "nature": 2,
+            "museums": 5,
+            "food": 3,
+            "budget": 3,
+            "architecture": 4,
+            "party": 3,
+            "safety": 4,
+            "inclusive": 1,
+            "walking": 3,
+            "beach": 1,
+            "adventurous": 3,
+            "luxuriously": 4
+        },
+        "funFact": "The Swiss Alps, where the mountains are so majestic that they wear their own customized snow caps and pose for selfies with passing hikers. The cows here are the true divas, sporting designer cowbells and mooing in perfect harmony to create the most sophisticated alpine symphony. You'll find more chocolate factories than ski resorts, as if the mountains are secretly plotting to turn skiers into chocoholics one delicious bite at a time. The locals have mastered the art of yodeling while simultaneously sipping on hot cocoa and expertly avoiding avalanches of cheese rolling down the slopes. And if you ever need a break from the snow, just look up—there's a cloud shaped like a giant fondue pot ready to sprinkle cheesy goodness on anyone daring enough to catch a taste."
+    },
+    {
+        "name": "Zurich, Switzerland",
+        "attributes": {
+            "rain": 3,
+            "casino": 2,
+            "nature": 2,
+            "museums": 5,
+            "food": 3,
+            "budget": 3,
+            "architecture": 4,
+            "party": 3,
+            "safety": 4,
+            "inclusive": 1,
+            "walking": 3,
+            "beach": 1,
+            "adventurous": 3,
+            "luxuriously": 4
+        },
+        "funFact": "Zurich, the city where precision meets playfulness, where even the clocks synchronize their tick-tocks with the beat of techno music. The locals here have invented a new sport called 'Banker Yoga,' where they strike extravagant poses while balancing their briefcases on their heads. The trams in Zurich are so punctual that they can double as metronomes for aspiring musicians looking for a steady rhythm. You'll find more Swiss watches than people, each ticking away in perfect harmony like a synchronized time orchestra. And if you ever need a dose of culture, just follow the trail of melted cheese fondue, leading you to a secret underground gallery where artists paint masterpieces using chocolate brushes"
+    },
+    {
+        "name": "Munich, Germany",
+        "attributes": {
+            "rain": 3,
+            "casino": 2,
+            "nature": 2,
+            "museums": 5,
+            "food": 3,
+            "budget": 3,
+            "architecture": 4,
+            "party": 3,
+            "safety": 4,
+            "inclusive": 1,
+            "walking": 3,
+            "beach": 1,
+            "adventurous": 3,
+            "luxuriously": 4
+        },
+        "funFact": "Munich, the city where beer flows like rivers and lederhosen is the official fashion statement, even for penguins. The locals here have a PhD in beer drinking, expertly balancing massive steins while executing flawless polka dance moves. The weather in Munich is as unpredictable as a game of Oktoberfest bingo, with sunny intervals, sudden rain showers, and occasional gusts of wind that turn umbrellas into flying sausages. You'll find more pretzels than street signs, each one intricately twisted to challenge your dexterity and test your hunger levels. And if you're ever in need of directions, just follow the smell of freshly baked bratwurst—locals use it as a universal compass to guide lost souls back to the nearest beer garden."
     }
 ]
