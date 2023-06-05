@@ -134,9 +134,29 @@
             "inclusive": 1,
             "walking": 2,
             "beach": 4,
-            "adventurous": 2,
+            "adventurous": 3,
             "luxuriously": 3
         },
         "funFact": "Perth, the land down under where kangaroos have perfected their beach volleyball skills and enjoy sipping on eucalyptus smoothies between matches. The locals here have mastered the art of balancing Vegemite on their noses while simultaneously playing the didgeridoo."
+    },
+    {
+        "name": "Paris",
+        "attributes": {
+            "rain": ,
+            "casino": ,
+            "nature": ,
+            "museums": ,
+            "food": ,
+            "budget": ,
+            "architecture": ,
+            "party": ,
+            "safety": ,
+            "inclusive": ,
+            "walking": ,
+            "beach": ,
+            "adventurous": ,
+            "luxuriously": 
+        },
+        "funFact": ""
     }
 ]
