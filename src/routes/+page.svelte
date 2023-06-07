@@ -35,16 +35,16 @@
 		for (const place of (places as unknown as Array<Place>)) {
 			let score = 0;
 			if (place.name === 'London' && answers.rain === 5) {
-				score += 10000000000;
+				score -= 10000000000;
 			}
 			for (const answerKey of Object.keys(answers)) {
 				if (answerKey in place.attributes) {
-					score += place.attributes[answerKey] * answers[answerKey];
+					score += Math.abs(place.attributes[answerKey] - answers[answerKey]);
 				}
 			}
 			pws.push({ place, score });
 		}
-		placesWithScore = pws.sort((a, b) => (a.score === b.score ? 0 : a.score < b.score ? 1 : -1));
+		placesWithScore = pws.sort((a, b) => (a.score === b.score ? 0 : a.score > b.score ? 1 : -1));
 	}
 
 	let recommendedPlace: Place | null = null;
@@ -146,7 +146,7 @@
 		/>
 		<Questions
 			question="13 How bad do you want to spend time at a beach?"
-			on:change={(event) => {
+			on:change={(event) => {	
 				answers = { ...answers, beach: event.detail };
 			}}
 			score={answers.beach}
