@@ -293,5 +293,110 @@
             "luxuriously": 4
         },
         "funFact": "Munich, the city where beer flows like rivers and lederhosen is the official fashion statement, even for penguins. The locals here have a PhD in beer drinking, expertly balancing massive steins while executing flawless polka dance moves. The weather in Munich is as unpredictable as a game of Oktoberfest bingo, with sunny intervals, sudden rain showers, and occasional gusts of wind that turn umbrellas into flying sausages. You'll find more pretzels than street signs, each one intricately twisted to challenge your dexterity and test your hunger levels. And if you're ever in need of directions, just follow the smell of freshly baked bratwurst—locals use it as a universal compass to guide lost souls back to the nearest beer garden."
+    },
+    {
+        "name": "New Deli, India",
+        "attributes": {
+            "warmWeather": 3,
+            "rain": 3,
+            "casino": 2,
+            "nature": 3,
+            "museums": 5,
+            "food": 3,
+            "budget": 3,
+            "architecture": 4,
+            "party": 3,
+            "safety": 4,
+            "inclusive": 1,
+            "walking": 3,
+            "beach": 1,
+            "adventurous": 2,
+            "luxuriously": 4
+        },
+        "funFact": ""
+    },
+    {
+        "name": "New York, New York",
+        "attributes": {
+            "warmWeather": 3,
+            "rain": 3,
+            "casino": 2,
+            "nature": 3,
+            "museums": 5,
+            "food": 3,
+            "budget": 3,
+            "architecture": 4,
+            "party": 3,
+            "safety": 4,
+            "inclusive": 1,
+            "walking": 3,
+            "beach": 1,
+            "adventurous": 2,
+            "luxuriously": 4
+        },
+        "funFact": ""
+    },
+    {
+        "name": "Toronto, Canada",
+        "attributes": {
+            "warmWeather": 3,
+            "rain": 3,
+            "casino": 2,
+            "nature": 3,
+            "museums": 5,
+            "food": 3,
+            "budget": 3,
+            "architecture": 4,
+            "party": 3,
+            "safety": 4,
+            "inclusive": 1,
+            "walking": 3,
+            "beach": 1,
+            "adventurous": 2,
+            "luxuriously": 4
+        },
+        "funFact": ""
+    },
+    {
+        "name": "Vienna, Austria",
+        "attributes": {
+            "warmWeather": 3,
+            "rain": 3,
+            "casino": 2,
+            "nature": 3,
+            "museums": 5,
+            "food": 3,
+            "budget": 3,
+            "architecture": 4,
+            "party": 3,
+            "safety": 4,
+            "inclusive": 1,
+            "walking": 3,
+            "beach": 1,
+            "adventurous": 2,
+            "luxuriously": 4
+        },
+        "funFact": ""
+    },
+    {
+        "name": "Thailand",
+        "attributes": {
+            "warmWeather": 3,
+            "rain": 3,
+            "casino": 2,
+            "nature": 3,
+            "museums": 5,
+            "food": 3,
+            "budget": 3,
+            "architecture": 4,
+            "party": 3,
+            "safety": 4,
+            "inclusive": 1,
+            "walking": 3,
+            "beach": 1,
+            "adventurous": 2,
+            "luxuriously": 4
+        },
+        "funFact": ""
     }
 ]
