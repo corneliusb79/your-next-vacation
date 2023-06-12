@@ -4,7 +4,7 @@
 	import Questions from '../components/Questions.svelte';
 
 	let answers: Record<string, number> = {
-				warmWeather: 1,
+		warmWeather: 1,
 		rain: 1,
 		casino: 1, 
 		nature: 1,
