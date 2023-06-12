@@ -117,7 +117,7 @@
 			score={answers.architecture}
 		/>
 		<Questions
-			question="9 Do you wanto to party on your vacation?"
+			question="9 Do you want to to party on your vacation?"
 			on:change={(event) => {
 				answers = { ...answers, party: event.detail };
 			}}

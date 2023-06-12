@@ -1,9 +1,9 @@
 [
     {
-        "name": "California, US",
+        "name": "LA, California", 
         "attributes": {
             "rain": 2,
-            "casino": 4,
+            "casino": 3,
             "nature": 4,
             "museums": 2,
             "food": 4,
