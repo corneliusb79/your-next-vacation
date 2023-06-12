@@ -398,5 +398,110 @@
             "luxuriously": 4
         },
         "funFact": ""
+    },
+    {
+        "name": "Rome, Italy",
+        "attributes": {
+            "warmWeather": 3,
+            "rain": 3,
+            "casino": 2,
+            "nature": 3,
+            "museums": 5,
+            "food": 3,
+            "budget": 3,
+            "architecture": 4,
+            "party": 3,
+            "safety": 4,
+            "inclusive": 1,
+            "walking": 3,
+            "beach": 1,
+            "adventurous": 2,
+            "luxuriously": 4
+        },
+        "funFact": ""
+    },
+    {
+        "name": "London",
+        "attributes": {
+            "warmWeather": 3,
+            "rain": 3,
+            "casino": 2,
+            "nature": 3,
+            "museums": 5,
+            "food": 3,
+            "budget": 3,
+            "architecture": 4,
+            "party": 3,
+            "safety": 4,
+            "inclusive": 1,
+            "walking": 3,
+            "beach": 1,
+            "adventurous": 2,
+            "luxuriously": 4
+        },
+        "funFact": ""
+    },
+    {
+        "name": "Safewil, Aargau",
+        "attributes": {
+            "warmWeather": 3,
+            "rain": 3,
+            "casino": 1,
+            "nature": 5,
+            "museums": 1,
+            "food": 5,
+            "budget": 2,
+            "architecture": 2,
+            "party": 1,
+            "safety": 4,
+            "inclusive": 1,
+            "walking": 4,
+            "beach": 1,
+            "adventurous": 2,
+            "luxuriously": 1
+        },
+        "funFact": ""
+    },
+    {
+        "name": "Saas Fee, Wallis",
+        "attributes": {
+            "warmWeather": 1,
+            "rain": 2,
+            "casino": 1,
+            "nature": 5,
+            "museums": 1,
+            "food": 4,
+            "budget": 4,
+            "architecture": 3,
+            "party": 3,
+            "safety": 2,
+            "inclusive": 1,
+            "walking": 4,
+            "beach": 1,
+            "adventurous": 2,
+            "luxuriously": 4
+        },
+        "funFact": ""
+    },
+    {
+        "name": "Amsterdam",
+        "attributes": {
+            "warmWeather": 2,
+            "rain": 3,
+            "casino": 3,
+            "nature": 4,
+            "museums": 5,
+            "food": 3,
+            "budget": 3,
+            "architecture": 4,
+            "party": 3,
+            "safety": 2,
+            "inclusive": 1,
+            "walking": 4,
+            "beach": 1,
+            "adventurous": 4,
+            "luxuriously": 2
+        },
+        "funFact": ""
     }
 ]
