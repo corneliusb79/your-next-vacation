@@ -96,7 +96,7 @@
 			score={answers.museums}
 		/>
 		<Questions
-			question="6 Are you foodie?"
+			question="6 Are you a foodie?"
 			on:change={(event) => {
 				answers = { ...answers, food: event.detail };
 			}}
