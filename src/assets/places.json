@@ -326,7 +326,7 @@
             "adventurous": 3,
             "luxuriously": 2
         },
-        "funFact": "",
+        "funFact": "Not only is New Delhi the capital of India, the country with all the important call centers, but it also has the largest spice market in Asia to make sure your food doesn't taste as white as you look! And they also have a toilet museum, 2:0, for New Delhi.",
         "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/71/a5/89.jpg"
     },
     {
@@ -348,7 +348,7 @@
             "adventurous": 5,
             "luxuriously": 4
         },
-        "funFact": "",
+        "funFact": "New York isn't only the crime spot for serial killers such as Richard Angelo (The Angel of Death), Joseph G. Christopher (Midtown Slasher), David Richard Berkowitz (Son of Sam), Paul Bateson and many more, but it is also the largest US city since 1790! With tourist attractions such as Central Park, The Metropolitan Museum of Art and the Statue of Liberty it doesn't only attract visitor but also terrorist, such as the ones that performed 9/11.",
         "image": "https://www.travelandleisure.com/thmb/91pb8LbDAUwUN_11wATYjx5oF8Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/new-york-city-evening-NYCTG0221-52492d6ccab44f328a1c89f41ac02aea.jpg"
     },
     {
@@ -370,71 +370,8 @@
             "adventurous": 3,
             "luxuriously": 4
         },
-        "funFact": "",
+        "funFact": "Toronto was formerly called York. \n Toronto is over 1'000 years. \n The first air-conditioned theater in Canada was in Toronto (Royal Alexandra Theatre). \n Toronto had the First Gas-lit Street lamps in Canada. \n The 1'500 workers participated in the construction of Toronto's CN Tower, which took 40 months.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Toronto_Skyline_Summer_2020.jpg"
-    },
-    {
-        "name": "Vienna, Austria",
-        "attributes": {
-            "warmWeather": 3,
-            "rain": 3,
-            "casino": 2,
-            "nature": 3,
-            "museums": 5,
-            "food": 3,
-            "budget": 3,
-            "architecture": 4,
-            "party": 3,
-            "safety": 4,
-            "inclusive": 1,
-            "walking": 3,
-            "beach": 1,
-            "adventurous": 2,
-            "luxuriously": 4
-        },
-        "funFact": ""
-    },
-    {
-        "name": "Thailand",
-        "attributes": {
-            "warmWeather": 3,
-            "rain": 3,
-            "casino": 2,
-            "nature": 3,
-            "museums": 5,
-            "food": 3,
-            "budget": 3,
-            "architecture": 4,
-            "party": 3,
-            "safety": 4,
-            "inclusive": 1,
-            "walking": 3,
-            "beach": 1,
-            "adventurous": 2,
-            "luxuriously": 4
-        },
-        "funFact": ""
-    },
-    {
-        "name": "Rome, Italy",
-        "attributes": {
-            "warmWeather": 3,
-            "rain": 3,
-            "casino": 2,
-            "nature": 3,
-            "museums": 5,
-            "food": 3,
-            "budget": 3,
-            "architecture": 4,
-            "party": 3,
-            "safety": 4,
-            "inclusive": 1,
-            "walking": 3,
-            "beach": 1,
-            "adventurous": 2,
-            "luxuriously": 4
-        },
-        "funFact": ""
     },
     {
         "name": "London",
@@ -455,7 +392,8 @@
             "adventurous": 2,
             "luxuriously": 4
         },
-        "funFact": "You want rain? We'll give you rain. Biatch."
+        "funFact": "You want rain? We'll give you rain. Biatch.",
+        "image": "https://assets.editorial.aetnd.com/uploads/2019/03/topic-london-gettyimages-760251843-feature.jpg"
     },
     {
         "name": "Safewil, Aargau",
@@ -476,7 +414,8 @@
             "adventurous": 2,
             "luxuriously": 1
         },
-        "funFact": ""
+        "funFact": "href=https://en.comparis.ch/immobilien/marktplatz/safenwil/wohnung/mieten",
+        "image": "https://zofingertagblatt.ch/uploads/2021/10/Safenwil_Hauptstrasse_pmn-scaled.jpg"
     },
     {
         "name": "Saas Fee, Wallis",
@@ -497,7 +436,8 @@
             "adventurous": 2,
             "luxuriously": 4
         },
-        "funFact": ""
+        "funFact": "",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Saas-Fee_Ort%2C_Januar_2009.jpg"
     },
     {
         "name": "Amsterdam",
@@ -518,6 +458,51 @@
             "adventurous": 4,
             "luxuriously": 2
         },
-        "funFact": ""
+        "funFact": "",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/KeizersgrachtReguliersgrachtAmsterdam.jpg"
+    },
+    {
+        "name": "St. Petersburg, Russia",
+        "attributes": {
+            "warmWeather": 2,
+            "rain": 4,
+            "casino": 2,
+            "nature": 3,
+            "museums": 5,
+            "food": 4,
+            "budget": 3,
+            "architecture": 5,
+            "party": 2,
+            "safety": 3,
+            "inclusive": 5,
+            "walking": 1,
+            "beach": 3,
+            "adventurous": 4,
+            "luxuriously": 4
+        },
+        "funFact": "",
+        "image": "https://cdn.britannica.com/11/125211-050-BC30D9C7/St-Petersburg.jpg"
+    },
+    {
+        "name": "Moskau, Russia",
+        "attributes": {
+            "warmWeather": 3,
+            "rain": 3,
+            "casino": 4,
+            "nature": 3,
+            "museums": 5,
+            "food": 4,
+            "budget": 5,
+            "architecture": 5,
+            "party": 5,
+            "safety": 3,
+            "inclusive": 5,
+            "walking": 1,
+            "beach": 1,
+            "adventurous": 5,
+            "luxuriously": 4
+        },
+        "funFact": "",
+        "image": "https://www.swissnomads.ch/Wordpress/wp-content/uploads/2018/10/basilius-kirche-sehenswuerdigkeiten-in-moskau.jpg"
     }
 ]
