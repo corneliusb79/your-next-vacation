@@ -1,8 +1,9 @@
 <script type="ts">
-	import { Button, Card, Heading, P } from 'flowbite-svelte';
-	import places from '../assets/places.json';
-	import Questions from '../components/Questions.svelte';
+	import { Button, Card, Heading, P } from 'flowbite-svelte'; //importing components from flowbite
+	import places from '../assets/places.json'; //importing places and their valus from places file
+	import Questions from '../components/Questions.svelte'; //importing Question component from Questions file
 
+	//defining the answer keys
 	let answers: Record<string, number> = {
 		warmWeather: 1,
 		rain: 1,
@@ -20,14 +21,16 @@
 		adventurous: 1,
 		luxuriously: 1
 	};
-
+	
+	//defining the output of a place
 	interface Place {
 		name: string;
 		attributes: Record<string, number>;
 		funFact: string;
 		image: string;
 	}
-
+	
+	//scoring the places by adding the differences of user answers and place answers and sorting from lowest to highest score
 	let placesWithScore: Array<{ place: Place; score: number }> = [];
 
 	$: {
@@ -47,6 +50,7 @@
 		placesWithScore = pws.sort((a, b) => (a.score === b.score ? 0 : a.score > b.score ? 1 : -1));
 	}
 
+	//output is place with lowest score
 	let recommendedPlace: Place | null = null;
 
 	function submit() {
@@ -54,6 +58,7 @@
 	}
 </script>
 
+//defining all 15 questions and assigning them an answer key
 <div class="p-4">
 	<Heading tag="h1" class="mb-4" customSize="text-4xl font-extrabold  md:text-5xl lg:text-6xl">
 		Your next Vacation
@@ -168,6 +173,7 @@
 		<Button color="purple" on:click={submit}>Submit</Button>
 	</div>
 
+	//outputing top place with the assigned information after user clicks submit button
 	{#if recommendedPlace !== null}
 		<Card>
 			<div class="flex flex-col gap-2">

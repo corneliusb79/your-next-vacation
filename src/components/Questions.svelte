@@ -1,3 +1,4 @@
+//definition of how a question card looks, spacing, size, alignment, importing components, Buttons, Button Groups, from flowbite design kit and defining aspects, color, size
 <script type="ts">
 	import { Button, ButtonGroup, Heading, P } from 'flowbite-svelte';
 	import { createEventDispatcher } from 'svelte';
@@ -22,3 +23,4 @@
         {/each}
 	</ButtonGroup>
 </div>
+
